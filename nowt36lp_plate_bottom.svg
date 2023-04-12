@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
      showgrid="false"
-     inkscape:zoom="0.99782298"
-     inkscape:cx="401.3738"
-     inkscape:cy="272.59344"
+     inkscape:zoom="0.88822422"
+     inkscape:cx="404.74014"
+     inkscape:cy="324.24245"
      inkscape:window-width="1920"
      inkscape:window-height="942"
      inkscape:window-x="1512"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer3" />
   <title
      id="title9">SVG Picture created as nowt36lp-B_Adhesive.svg date 2023/04/12 22:01:33 </title>
   <desc
@@ -4573,159 +4573,160 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="slots">
+     inkscape:label="slots"
+     style="fill:#9a06b0;stroke:#972200;stroke-opacity:1;fill-opacity:1">
     <path
-       d="M124152686 61090861 L125006788 57903305 "
-       id="path2749"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 125005240,56703306 a 1200000,1200000 0 0 0 -1157560,889417 l -854100,3187556 a 1200000,1200000 0 0 0 848520,1469693 1200000,1200000 0 0 0 1469700,-848529 l 854100,-3187556 a 1200000,1200000 0 0 0 -848530,-1469693 1200000,1200000 0 0 0 -312130,-40888 z"
+       id="path2749" />
     <path
-       d="M105915486 54232861 L106769588 51045305 "
-       id="path2785"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 106768040,49845306 a 1200000,1200000 0 0 0 -1157560,889417 l -854100,3187556 a 1200000,1200000 0 0 0 848520,1469693 1200000,1200000 0 0 0 1469700,-848529 l 854100,-3187556 a 1200000,1200000 0 0 0 -848530,-1469693 1200000,1200000 0 0 0 -312130,-40888 z"
+       id="path2785" />
     <path
-       d="M59178341 79131915 L59864449 75904027 "
-       id="path2813"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 59865068,74704027 a 1200000,1200000 0 0 0 -1174396,950506 l -686108,3227888 a 1200000,1200000 0 0 0 924283,1423271 1200000,1200000 0 0 0 1423271,-924283 l 686108,-3227888 a 1200000,1200000 0 0 0 -924283,-1423271 1200000,1200000 0 0 0 -248875,-26223 z"
+       id="path2813" />
     <path
-       d="M241286608 82333304 L240600500 79105416 "
-       id="path2871"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 240599880,77905416 a 1200000,1200000 0 0 0 -248870,26223 1200000,1200000 0 0 0 -924290,1423271 l 686110,3227888 a 1200000,1200000 0 0 0 1423270,924283 1200000,1200000 0 0 0 924290,-1423271 l -686110,-3227888 a 1200000,1200000 0 0 0 -1174400,-950506 z"
+       id="path2871" />
     <path
-       d="M185264945 102217133 L184410843 99029577 "
-       id="path2913"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 184409300,97829578 a 1200000,1200000 0 0 0 -309040,40888 1200000,1200000 0 0 0 -848530,1469693 l 854100,3187561 a 1200000,1200000 0 0 0 1469700,848520 1200000,1200000 0 0 0 848530,-1469690 l -854110,-3187555 a 1200000,1200000 0 0 0 -1160650,-889417 z"
+       id="path2913" />
     <path
-       d="M119783886 79632861 L120637988 76445305 "
-       id="path2919"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 120636440,75245306 a 1200000,1200000 0 0 0 -1157560,889417 l -854100,3187556 a 1200000,1200000 0 0 0 848520,1469693 1200000,1200000 0 0 0 1469700,-848529 l 854100,-3187556 a 1200000,1200000 0 0 0 -848530,-1469693 1200000,1200000 0 0 0 -312130,-40888 z"
+       id="path2919" />
     <path
-       d="M183271714 130066799 L181773546 127126477 "
-       id="path2969"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 181774480,125926480 a 1200000,1200000 0 0 0 -545720,130790 1200000,1200000 0 0 0 -524420,1614000 l 1498170,2940320 a 1200000,1200000 0 0 0 1613990,524420 1200000,1200000 0 0 0 524420,-1614000 l -1498170,-2940320 a 1200000,1200000 0 0 0 -1068270,-655210 z"
+       id="path2969" />
     <path
-       d="M115415086 98174861 L116269188 94987305 "
-       id="path3033"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 116267640,93787306 a 1200000,1200000 0 0 0 -1157560,889417 l -854100,3187556 a 1200000,1200000 0 0 0 848520,1469693 1200000,1200000 0 0 0 1469700,-848529 l 854100,-3187556 a 1200000,1200000 0 0 0 -848530,-1469693 1200000,1200000 0 0 0 -312130,-40888 z"
+       id="path3033" />
     <path
-       d="M217231514 112743999 L215733346 109803677 "
-       id="path3059"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 215734280,108603680 a 1200000,1200000 0 0 0 -545720,130790 1200000,1200000 0 0 0 -524420,1614000 l 1498170,2940320 a 1200000,1200000 0 0 0 1613990,524420 1200000,1200000 0 0 0 524420,-1614000 l -1498170,-2940320 a 1200000,1200000 0 0 0 -1068270,-655210 z"
+       id="path3059" />
     <path
-       d="M41054411 64568594 L41169579 61270604 "
-       id="path3131"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 41168134,60070605 a 1200000,1200000 0 0 0 -1197824,1158120 l -115168,3297990 a 1200000,1200000 0 0 0 1157390,1241148 1200000,1200000 0 0 0 1241148,-1157390 l 115168,-3297990 a 1200000,1200000 0 0 0 -1157390,-1241148 1200000,1200000 0 0 0 -43324,-730 z"
+       id="path3131" />
     <path
-       d="M63140741 60488315 L63826849 57260427 "
-       id="path3175"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 63827468,56060427 a 1200000,1200000 0 0 0 -1174396,950506 l -686108,3227888 a 1200000,1200000 0 0 0 924283,1423271 1200000,1200000 0 0 0 1423271,-924283 l 686108,-3227888 a 1200000,1200000 0 0 0 -924283,-1423271 1200000,1200000 0 0 0 -248875,-26223 z"
+       id="path3175" />
     <path
-       d="M82292341 62037715 L82978449 58809827 "
-       id="path3215"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 82979068,57609827 a 1200000,1200000 0 0 0 -1174396,950506 l -686108,3227888 a 1200000,1200000 0 0 0 924283,1423271 1200000,1200000 0 0 0 1423271,-924283 l 686108,-3227888 a 1200000,1200000 0 0 0 -924283,-1423271 1200000,1200000 0 0 0 -248875,-26223 z"
+       id="path3215" />
     <path
-       d="M176527345 65107733 L175673243 61920177 "
-       id="path3249"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 175671700,60720178 a 1200000,1200000 0 0 0 -309040,40888 1200000,1200000 0 0 0 -848530,1469693 l 854100,3187556 a 1200000,1200000 0 0 0 1469700,848529 1200000,1200000 0 0 0 848530,-1469693 l -854110,-3187556 a 1200000,1200000 0 0 0 -1160650,-889417 z"
+       id="path3249" />
     <path
-       d="M259080843 65084835 L258965675 61786845 "
-       id="path3301"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 258967120,60586846 a 1200000,1200000 0 0 0 -43320,730 1200000,1200000 0 0 0 -1157390,1241148 l 115160,3297990 a 1200000,1200000 0 0 0 1241150,1157390 1200000,1200000 0 0 0 1157390,-1241148 l -115170,-3297990 a 1200000,1200000 0 0 0 -1197820,-1158120 z"
+       id="path3301" />
     <path
-       d="M200238914 121405399 L198740746 118465077 "
-       id="path3337"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 198741680,117265080 a 1200000,1200000 0 0 0 -545720,130790 1200000,1200000 0 0 0 -524420,1614000 l 1498170,2940320 a 1200000,1200000 0 0 0 1613990,524420 1200000,1200000 0 0 0 524420,-1614000 l -1498170,-2940320 a 1200000,1200000 0 0 0 -1068270,-655210 z"
+       id="path3337" />
     <path
-       d="M203201645 95411633 L202347543 92224077 "
-       id="path3365"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 202346000,91024078 a 1200000,1200000 0 0 0 -309040,40888 1200000,1200000 0 0 0 -848530,1469693 l 854100,3187556 a 1200000,1200000 0 0 0 1469700,848529 1200000,1200000 0 0 0 848530,-1469693 l -854110,-3187556 a 1200000,1200000 0 0 0 -1160650,-889417 z"
+       id="path3365" />
     <path
-       d="M78304541 80681315 L78990649 77453427 "
-       id="path3397"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 78991268,76253427 a 1200000,1200000 0 0 0 -1174396,950506 l -686108,3227888 a 1200000,1200000 0 0 0 924283,1423271 1200000,1200000 0 0 0 1423271,-924283 l 686108,-3227888 a 1200000,1200000 0 0 0 -924283,-1423271 1200000,1200000 0 0 0 -248875,-26223 z"
+       id="path3397" />
     <path
-       d="M45601011 44324794 L45716179 41026804 "
-       id="path3473"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 45714734,39826805 a 1200000,1200000 0 0 0 -1197824,1158120 l -115168,3297990 a 1200000,1200000 0 0 0 1157390,1241148 1200000,1200000 0 0 0 1241148,-1157390 l 115168,-3297990 a 1200000,1200000 0 0 0 -1157390,-1241148 1200000,1200000 0 0 0 -43324,-730 z"
+       id="path3473" />
     <path
-       d="M214261008 46646304 L213574900 43418416 "
-       id="path3481"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 213574280,42218416 a 1200000,1200000 0 0 0 -248870,26223 1200000,1200000 0 0 0 -924290,1423271 l 686110,3227888 a 1200000,1200000 0 0 0 1423270,924283 1200000,1200000 0 0 0 924290,-1423271 l -686110,-3227888 a 1200000,1200000 0 0 0 -1174400,-950506 z"
+       id="path3481" />
     <path
-       d="M97533486 91418461 L98387588 88230905 "
-       id="path3533"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 98386040,87030906 a 1200000,1200000 0 0 0 -1157563,889417 l -854102,3187556 a 1200000,1200000 0 0 0 848529,1469693 1200000,1200000 0 0 0 1469693,-848529 l 854102,-3187556 a 1200000,1200000 0 0 0 -848529,-1469693 1200000,1200000 0 0 0 -312130,-40888 z"
+       id="path3533" />
     <path
-       d="M66382396 42067846 L66784564 38792444 "
-       id="path3595"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 66785699,37592445 a 1200000,1200000 0 0 0 -1192190,1053756 l -402168,3275402 a 1200000,1200000 0 0 0 1044812,1337298 1200000,1200000 0 0 0 1337298,-1044812 l 402168,-3275402 a 1200000,1200000 0 0 0 -1044812,-1337298 1200000,1200000 0 0 0 -145108,-8944 z"
+       id="path3595" />
     <path
-       d="M86254741 43394115 L86940849 40166227 "
-       id="path3619"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 86941468,38966227 a 1200000,1200000 0 0 0 -1174396,950506 l -686108,3227888 a 1200000,1200000 0 0 0 924283,1423271 1200000,1200000 0 0 0 1423271,-924283 l 686108,-3227888 a 1200000,1200000 0 0 0 -924283,-1423271 1200000,1200000 0 0 0 -248875,-26223 z"
+       id="path3619" />
     <path
-       d="M233884488 43933859 L233482320 40658457 "
-       id="path3673"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 233481190,39458458 a 1200000,1200000 0 0 0 -145110,8944 1200000,1200000 0 0 0 -1044810,1337298 l 402160,3275402 a 1200000,1200000 0 0 0 1337300,1044812 1200000,1200000 0 0 0 1044810,-1337298 l -402160,-3275402 a 1200000,1200000 0 0 0 -1192190,-1053756 z"
+       id="path3673" />
     <path
-       d="M237349608 63689704 L236663500 60461816 "
-       id="path3701"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 236662880,59261816 a 1200000,1200000 0 0 0 -248870,26223 1200000,1200000 0 0 0 -924290,1423271 l 686110,3227888 a 1200000,1200000 0 0 0 1423270,924283 1200000,1200000 0 0 0 924290,-1423271 l -686110,-3227888 a 1200000,1200000 0 0 0 -1174400,-950506 z"
+       id="path3701" />
     <path
-       d="M262967043 84058635 L262851875 80760645 "
-       id="path3759"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 262853320,79560646 a 1200000,1200000 0 0 0 -43320,730 1200000,1200000 0 0 0 -1157390,1241148 l 115160,3297990 a 1200000,1200000 0 0 0 1241150,1157390 1200000,1200000 0 0 0 1157390,-1241148 l -115170,-3297990 a 1200000,1200000 0 0 0 -1197820,-1158120 z"
+       id="path3759" />
     <path
-       d="M218198008 65264504 L217511900 62036616 "
-       id="path3775"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 217511280,60836616 a 1200000,1200000 0 0 0 -248870,26223 1200000,1200000 0 0 0 -924290,1423271 l 686110,3227888 a 1200000,1200000 0 0 0 1423270,924283 1200000,1200000 0 0 0 924290,-1423271 l -686110,-3227888 a 1200000,1200000 0 0 0 -1174400,-950506 z"
+       id="path3775" />
     <path
-       d="M84611265 105723467 L86109433 102783145 "
-       id="path3823"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 86108504,101583150 a 1200000,1200000 0 0 0 -1068279,655210 l -1498168,2940320 a 1200000,1200000 0 0 0 524420,1614000 1200000,1200000 0 0 0 1613996,-524420 l 1498168,-2940330 a 1200000,1200000 0 0 0 -524420,-1613990 1200000,1200000 0 0 0 -545717,-130790 z"
+       id="path3823" />
     <path
-       d="M37219011 83516994 L37334179 80219004 "
-       id="path3879"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 37332734,79019005 a 1200000,1200000 0 0 0 -1197824,1158120 l -115168,3297990 a 1200000,1200000 0 0 0 1157390,1241148 1200000,1200000 0 0 0 1241148,-1157390 l 115168,-3297990 a 1200000,1200000 0 0 0 -1157390,-1241148 1200000,1200000 0 0 0 -43324,-730 z"
+       id="path3879" />
     <path
-       d="M150271000 74855000 L150271000 102795000 "
-       id="path3913"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2200000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 150271000,73755000 a 1100000,1100000 0 0 0 -1100000,1100000 v 27940000 a 1100000,1100000 0 0 0 1100000,1100000 1100000,1100000 0 0 0 1100000,-1100000 V 74855000 a 1100000,1100000 0 0 0 -1100000,-1100000 z"
+       id="path3913" />
     <path
-       d="M165451000 74935000 L165451000 102875000 "
-       id="path3915"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2200000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 165451000,73835000 a 1100000,1100000 0 0 0 -1100000,1100000 v 27940000 a 1100000,1100000 0 0 0 1100000,1100000 1100000,1100000 0 0 0 1100000,-1100000 V 74935000 a 1100000,1100000 0 0 0 -1100000,-1100000 z"
+       id="path3915" />
     <path
-       d="M254559643 44866435 L254444475 41568445 "
-       id="path3923"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 254445920,40368446 a 1200000,1200000 0 0 0 -43320,730 1200000,1200000 0 0 0 -1157390,1241148 l 115160,3297990 a 1200000,1200000 0 0 0 1241150,1157390 1200000,1200000 0 0 0 1157390,-1241148 l -115170,-3297990 a 1200000,1200000 0 0 0 -1197820,-1158120 z"
+       id="path3923" />
     <path
-       d="M194789945 58224333 L193935843 55036777 "
-       id="path3995"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 193934300,53836778 a 1200000,1200000 0 0 0 -309040,40888 1200000,1200000 0 0 0 -848530,1469693 l 854100,3187556 a 1200000,1200000 0 0 0 1469700,848529 1200000,1200000 0 0 0 848530,-1469693 l -854110,-3187556 a 1200000,1200000 0 0 0 -1160650,-889417 z"
+       id="path3995" />
     <path
-       d="M101603865 114359467 L103102033 111419145 "
-       id="path4051"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 103101100,110219150 a 1200000,1200000 0 0 0 -1068270,655210 l -1498170,2940320 a 1200000,1200000 0 0 0 524420,1614000 1200000,1200000 0 0 0 1613990,-524420 l 1498170,-2940330 a 1200000,1200000 0 0 0 -524420,-1613990 1200000,1200000 0 0 0 -545720,-130790 z"
+       id="path4051" />
     <path
-       d="M198803145 76893333 L197949043 73705777 "
-       id="path4103"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 197947500,72505778 a 1200000,1200000 0 0 0 -309040,40888 1200000,1200000 0 0 0 -848530,1469693 l 854100,3187556 a 1200000,1200000 0 0 0 1469700,848529 1200000,1200000 0 0 0 848530,-1469693 l -854110,-3187556 a 1200000,1200000 0 0 0 -1160650,-889417 z"
+       id="path4103" />
     <path
-       d="M118552065 123000567 L120050233 120060245 "
-       id="path4141"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 120049300,118860250 a 1200000,1200000 0 0 0 -1068270,655210 l -1498170,2940320 a 1200000,1200000 0 0 0 524420,1614000 1200000,1200000 0 0 0 1613990,-524420 l 1498170,-2940330 a 1200000,1200000 0 0 0 -524420,-1613990 1200000,1200000 0 0 0 -545720,-130790 z"
+       id="path4141" />
     <path
-       d="M222185808 83908104 L221499700 80680216 "
-       id="path4187"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 221499080,79480216 a 1200000,1200000 0 0 0 -248870,26223 1200000,1200000 0 0 0 -924290,1423271 l 686110,3227888 a 1200000,1200000 0 0 0 1423270,924283 1200000,1200000 0 0 0 924290,-1423271 l -686110,-3227888 a 1200000,1200000 0 0 0 -1174400,-950506 z"
+       id="path4187" />
     <path
-       d="M180896145 83649733 L180042043 80462177 "
-       id="path4203"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 180040500,79262178 a 1200000,1200000 0 0 0 -309040,40888 1200000,1200000 0 0 0 -848530,1469693 l 854100,3187556 a 1200000,1200000 0 0 0 1469700,848529 1200000,1200000 0 0 0 848530,-1469693 l -854110,-3187556 a 1200000,1200000 0 0 0 -1160650,-889417 z"
+       id="path4203" />
     <path
-       d="M101902286 72851061 L102756388 69663505 "
-       id="path4273"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2400000;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+       style="color:#000000;fill:#9a06b0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stroke:#972200;stroke-opacity:1;fill-opacity:1"
+       d="m 102754840,68463506 a 1200000,1200000 0 0 0 -1157560,889417 l -854100,3187556 a 1200000,1200000 0 0 0 848520,1469693 1200000,1200000 0 0 0 1469700,-848529 l 854100,-3187556 a 1200000,1200000 0 0 0 -848530,-1469693 1200000,1200000 0 0 0 -312130,-40888 z"
+       id="path4273" />
   </g>
   <g
      inkscape:groupmode="layer"
